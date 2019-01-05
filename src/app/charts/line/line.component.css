@@ -1,0 +1,14 @@
+
+.switcher-button {
+    text-decoration: none;
+    padding: .2em 1em;
+    color: #fff;
+    background-color: #036;
+}
+
+
+
+.switcher-button:hover {
+    color: #fff;
+    background-color: #369;
+}
